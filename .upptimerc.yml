@@ -10,11 +10,11 @@ sites:
   - name: POST to SMTNet-Login
     url: https://smtnet.com/accounts/user/index.cfm
     method: POST
-  - name: IPv6 test
-    url: smtnet.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # - name: IPv6 test
+  #   url: smtnet.com
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
     #type: globalping # Use the Globalping platform to run the check
     #location: california # Location to run the check from. Default is "World"
 
