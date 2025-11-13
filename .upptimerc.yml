@@ -1,36 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ParthaDhar # Your GitHub organization or username, where this repository lives
+repo: smtnet-uptime # The name of this repository
+user-agent: koj-co
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: SMTNet-Prod
+    url: https://smtnet.com
+    icon: https://smtnet.com/home/new/img/favicon.ico
+  - name: POST to SMTNet-Login
+    url: https://smtnet.com/accounts/user/index.cfm
+    method: POST
   - name: IPv6 test
-    url: forwardemail.net
+    url: smtnet.com
     port: 80
     check: "tcp-ping"
     ipv6: true
+    #type: globalping # Use the Globalping platform to run the check
+    #location: california # Location to run the check from. Default is "World"
 
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+assignees: # Users to assign downtime issues (optional)
+  - ParthaDhar
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
