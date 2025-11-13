@@ -5,16 +5,16 @@
     "icon": "https://smtnet.com/home/new/img/favicon.ico",
     "slug": "smt-net-prod",
     "status": "up",
-    "uptime": "65.48%",
-    "uptimeDay": "65.48%",
-    "uptimeWeek": "65.48%",
-    "uptimeMonth": "65.48%",
-    "uptimeYear": "65.48%",
-    "time": 1512,
-    "timeDay": 1512,
-    "timeWeek": 1512,
-    "timeMonth": 1512,
-    "timeYear": 1512,
+    "uptime": "71.29%",
+    "uptimeDay": "71.29%",
+    "uptimeWeek": "71.29%",
+    "uptimeMonth": "71.29%",
+    "uptimeYear": "71.29%",
+    "time": 1390,
+    "timeDay": 1390,
+    "timeWeek": 1390,
+    "timeMonth": 1390,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2025-11-13": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   }
 ]
