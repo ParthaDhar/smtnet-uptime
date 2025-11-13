@@ -4,19 +4,19 @@
     "url": "https://smtnet.com",
     "icon": "https://smtnet.com/home/new/img/favicon.ico",
     "slug": "smt-net-prod",
-    "status": "down",
-    "uptime": "79.25%",
-    "uptimeDay": "79.25%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "79.25%",
-    "uptimeYear": "79.25%",
-    "time": 5826,
-    "timeDay": 5826,
-    "timeWeek": 5826,
-    "timeMonth": 5826,
-    "timeYear": 5826,
+    "status": "up",
+    "uptime": "68.88%",
+    "uptimeDay": "68.88%",
+    "uptimeWeek": "68.88%",
+    "uptimeMonth": "68.88%",
+    "uptimeYear": "68.88%",
+    "time": 5209,
+    "timeDay": 5209,
+    "timeWeek": 5209,
+    "timeMonth": 5209,
+    "timeYear": 5209,
     "dailyMinutesDown": {
-      "2025-11-13": 64
+      "2025-11-13": 111
     }
   },
   {
