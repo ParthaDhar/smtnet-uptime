@@ -4,12 +4,12 @@
     "url": "https://smtnet.com",
     "icon": "https://smtnet.com/home/new/img/favicon.ico",
     "slug": "smt-net-prod",
-    "status": "up",
-    "uptime": "91.44%",
-    "uptimeDay": "86.15%",
+    "status": "down",
+    "uptime": "91.48%",
+    "uptimeDay": "86.13%",
     "uptimeWeek": "89.54%",
     "uptimeMonth": "88.11%",
-    "uptimeYear": "91.44%",
+    "uptimeYear": "91.48%",
     "time": 6885,
     "timeDay": 2784,
     "timeWeek": 4075,
@@ -57,7 +57,7 @@
       "2025-11-22": 86,
       "2025-11-21": 23,
       "2025-11-18": 40,
-      "2025-11-16": 290
+      "2025-11-16": 259
     }
   },
   {
