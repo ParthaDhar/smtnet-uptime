@@ -1,7 +1,7 @@
 url: https://smtnet.com/accounts/user/index.cfm
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2026-01-11T11:43:33.356Z
+status: down
+code: 429
+responseTime: 84
+lastUpdated: 2026-01-11T11:51:36.571Z
 startTime: 2025-11-13T08:38:06.554Z
 generator: Upptime <https://github.com/upptime/upptime>
