@@ -5,11 +5,11 @@
     "icon": "https://smtnet.com/home/new/img/favicon.ico",
     "slug": "smt-net-prod",
     "status": "up",
-    "uptime": "90.02%",
+    "uptime": "90.03%",
     "uptimeDay": "88.04%",
     "uptimeWeek": "89.41%",
     "uptimeMonth": "76.85%",
-    "uptimeYear": "90.02%",
+    "uptimeYear": "90.03%",
     "time": 7307,
     "timeDay": 2651,
     "timeWeek": 6828,
@@ -57,12 +57,12 @@
     "url": "https://smtnet.com/accounts/user/index.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/smtnet.com.ico",
     "slug": "post-to-smt-net-login",
-    "status": "up",
-    "uptime": "89.91%",
-    "uptimeDay": "88.21%",
+    "status": "down",
+    "uptime": "89.94%",
+    "uptimeDay": "88.20%",
     "uptimeWeek": "92.04%",
     "uptimeMonth": "81.72%",
-    "uptimeYear": "89.91%",
+    "uptimeYear": "89.94%",
     "time": 2223,
     "timeDay": 1297,
     "timeWeek": 1601,
@@ -112,8 +112,7 @@
       "2025-12-02": 249,
       "2025-11-26": 148,
       "2025-11-25": 21,
-      "2025-11-24": 25,
-      "2025-11-21": 23
+      "2025-11-24": 25
     }
   }
 ]
