@@ -1,7 +1,7 @@
 url: https://smtnet.com
-status: up
-code: 200
-responseTime: 954
-lastUpdated: 2026-02-04T15:57:55.998Z
+status: down
+code: 500
+responseTime: 4016
+lastUpdated: 2026-02-04T23:01:11.026Z
 startTime: 2025-11-13T08:38:05.223Z
 generator: Upptime <https://github.com/upptime/upptime>
