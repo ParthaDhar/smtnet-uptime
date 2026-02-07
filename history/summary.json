@@ -8,12 +8,12 @@
     "uptime": "89.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "72.07%",
-    "uptimeMonth": "71.51%",
+    "uptimeMonth": "71.53%",
     "uptimeYear": "89.81%",
     "time": 7298,
     "timeDay": 19631,
-    "timeWeek": 7404,
-    "timeMonth": 7700,
+    "timeWeek": 7260,
+    "timeMonth": 7718,
     "timeYear": 7298,
     "dailyMinutesDown": {
       "2026-02-06": 612,
@@ -52,17 +52,17 @@
     "url": "https://smtnet.com/accounts/user/index.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/smtnet.com.ico",
     "slug": "post-to-smt-net-login",
-    "status": "up",
-    "uptime": "91.05%",
-    "uptimeDay": "97.96%",
+    "status": "down",
+    "uptime": "91.07%",
+    "uptimeDay": "97.95%",
     "uptimeWeek": "71.80%",
     "uptimeMonth": "76.41%",
-    "uptimeYear": "91.05%",
-    "time": 2101,
-    "timeDay": 1480,
-    "timeWeek": 1758,
-    "timeMonth": 2002,
-    "timeYear": 2101,
+    "uptimeYear": "91.07%",
+    "time": 2094,
+    "timeDay": 1237,
+    "timeWeek": 1727,
+    "timeMonth": 1991,
+    "timeYear": 2094,
     "dailyMinutesDown": {
       "2026-02-07": 29,
       "2026-02-06": 567,
@@ -95,8 +95,7 @@
       "2026-01-05": 40,
       "2026-01-04": 46,
       "2026-01-02": 429,
-      "2026-01-01": 229,
-      "2025-12-31": 22
+      "2026-01-01": 229
     }
   }
 ]
