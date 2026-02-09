@@ -4,17 +4,17 @@
     "url": "https://smtnet.com",
     "icon": "https://smtnet.com/home/new/img/favicon.ico",
     "slug": "smt-net-prod",
-    "status": "up",
-    "uptime": "89.96%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "78.49%",
-    "uptimeMonth": "71.95%",
-    "uptimeYear": "89.96%",
-    "time": 7213,
-    "timeDay": 1479,
-    "timeWeek": 5401,
-    "timeMonth": 7616,
-    "timeYear": 7213,
+    "status": "down",
+    "uptime": "89.99%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "78.67%",
+    "uptimeMonth": "71.99%",
+    "uptimeYear": "89.99%",
+    "time": 7211,
+    "timeDay": 2738,
+    "timeWeek": 5431,
+    "timeMonth": 7603,
+    "timeYear": 7211,
     "dailyMinutesDown": {
       "2026-02-09": 116,
       "2026-02-08": 67,
@@ -46,7 +46,7 @@
       "2026-01-10": 1346,
       "2026-01-09": 374,
       "2026-01-08": 23,
-      "2026-01-07": 145
+      "2026-01-07": 116
     }
   },
   {
@@ -54,17 +54,17 @@
     "url": "https://smtnet.com/accounts/user/index.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/smtnet.com.ico",
     "slug": "post-to-smt-net-login",
-    "status": "up",
-    "uptime": "91.59%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "77.30%",
-    "uptimeMonth": "76.55%",
-    "uptimeYear": "91.59%",
-    "time": 2057,
-    "timeDay": 346,
-    "timeWeek": 1063,
-    "timeMonth": 1883,
-    "timeYear": 2057,
+    "status": "down",
+    "uptime": "91.61%",
+    "uptimeDay": "89.97%",
+    "uptimeWeek": "77.48%",
+    "uptimeMonth": "76.60%",
+    "uptimeYear": "91.61%",
+    "time": 2050,
+    "timeDay": 268,
+    "timeWeek": 1044,
+    "timeMonth": 1874,
+    "timeYear": 2050,
     "dailyMinutesDown": {
       "2026-02-09": 144,
       "2026-02-08": 67,
@@ -97,7 +97,7 @@
       "2026-01-09": 349,
       "2026-01-07": 41,
       "2026-01-05": 40,
-      "2026-01-04": 46
+      "2026-01-04": 30
     }
   }
 ]
